@@ -1,6 +1,6 @@
 
-remote-theme: mmistakes/jekyll-theme-hpstr
+theme: mmistakes/jekyll-theme-hpstr
 
 plugins:
   - jekyll-feed
- 
+ - jekyll-remote-theme
