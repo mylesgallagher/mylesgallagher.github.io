@@ -3,7 +3,7 @@
 # theme: jekyll-theme-minimal
 #remote-theme:  jeffreytse/jekyll-theme-yat
 #remote-theme:  poole/hyde 
-remote-theme: old-jekyll-templates/Arcana-Jekyll-Theme
+remote-theme:  mmistakes/jekyll-theme-hpstr 
 
 plugins:
   - jekyll-feed
