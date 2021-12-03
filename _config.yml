@@ -1,5 +1,5 @@
-remote_theme: melvinchng/business-jekyll-theme
-
+# remote_theme: melvinchng/business-jekyll-theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
