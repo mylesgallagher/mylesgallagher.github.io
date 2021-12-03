@@ -1,5 +1,5 @@
 
-remote-theme: "mmistakes/jekyll-theme-hpstr"
+remote-theme: mmistakes/jekyll-theme-hpstr
 
 plugins:
   - jekyll-feed
