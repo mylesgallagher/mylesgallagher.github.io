@@ -4,4 +4,4 @@ plugins:
   - jekyll-feed
  - jekyll-remote-theme
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
