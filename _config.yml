@@ -1,9 +1,4 @@
-# remote-theme: melvinchng/business-jekyll-theme
-#remote_theme: seanh/jekyll-theme-oatcake@0.1.3
-# theme: jekyll-theme-minimal
-#remote-theme:  jeffreytse/jekyll-theme-yat
-#remote-theme:  poole/hyde 
-# remote-theme:  "mmistakes/jekyll-theme-hpstr" 
+
 remote-theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
