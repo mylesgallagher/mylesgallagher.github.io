@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+remote_theme: melvinchng/business-jekyll-theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
