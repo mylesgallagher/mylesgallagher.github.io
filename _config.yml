@@ -1,5 +1,5 @@
 
-theme: "mmistakes/jekyll-theme-hpstr"
+theme: minima
 
 plugins:
   - jekyll-feed
