@@ -3,3 +3,5 @@ remote-theme: benbalter/retlab
 plugins:
   - jekyll-feed
  - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
