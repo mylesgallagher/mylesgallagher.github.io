@@ -1,4 +1,5 @@
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-remote_theme: mmistakes/jekyll-theme-hpstr 
+# remote_theme: mmistakes/jekyll-theme-hpstr 
+remote-theme: melvinchng/business-jekyll-theme
