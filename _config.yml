@@ -1,4 +1,4 @@
-remote-theme: benbalter/retlab
+# remote-theme: benbalter/retlab
 
 plugins:
   - jekyll-feed
